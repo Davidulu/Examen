@@ -1,0 +1,8 @@
+C:\Users\Alumno\Desktop\Examen\Examen\bin\Debug\Examen.exe.config
+C:\Users\Alumno\Desktop\Examen\Examen\bin\Debug\Examen.exe
+C:\Users\Alumno\Desktop\Examen\Examen\bin\Debug\Examen.pdb
+C:\Users\Alumno\Desktop\Examen\Examen\obj\Debug\Examen.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\Examen\Examen\obj\Debug\Examen.Properties.Resources.resources
+C:\Users\Alumno\Desktop\Examen\Examen\obj\Debug\Examen.csproj.GenerateResource.Cache
+C:\Users\Alumno\Desktop\Examen\Examen\obj\Debug\Examen.exe
+C:\Users\Alumno\Desktop\Examen\Examen\obj\Debug\Examen.pdb
